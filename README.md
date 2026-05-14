@@ -1,3 +1,3 @@
 # cozy-boba-shop
 
-[click me]
+[click me](https://kittyhuang1206.github.io/cozy-boba-shop/)
